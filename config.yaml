@@ -1,0 +1,14 @@
+# config.yaml
+ville_ciblees:
+  - Québec
+  - Lévis
+  - Beauport
+  - Charlesbourg
+
+taux_interet: 0.055
+amortissement: 25
+mise_de_fonds: 0.2
+
+seuils:
+  mrb_max: 13
+  cashflow_min: 0
